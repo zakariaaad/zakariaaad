@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zakariaaad (ZAKARIA AADEL)
-- 👀 I’m Frontend Developper & UI/UX Designer (Angular)
+- 👀 I’m Frontend Developper (Angular) & UI/UX Designer 
 
 - 📫 How to reach me : zakariaaadel@gmail.com
 
